@@ -1,1 +1,21 @@
-
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "/Users/elaine/Desktop",
+                "/Users/elaine/Downloads"
+            ],
+            "type": "stdio"
+        },
+        "ms365": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@softeria/ms-365-mcp-server"
+            ]
+        }
+    }
+}
