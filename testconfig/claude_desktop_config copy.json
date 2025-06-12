@@ -3,7 +3,7 @@
         "vulnerable-demo": {
             "command": "node",
             "args": [
-                "/Users/elaine/Library/Application Support/Claude/bad-mcp-server.js"
+                "/badserver/bad-mcp-server.js"
             ],
             "type": "stdio",
             "env": {
