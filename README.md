@@ -1,5 +1,5 @@
 # mcp-server-scan
-sorces:
+sources:
 
 https://modelcontextprotocol.io/quickstart/user
 
